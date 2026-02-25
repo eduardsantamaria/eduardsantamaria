@@ -1,16 +1,39 @@
-## Hi there 👋
+# Eduard Santamaria
 
-<!--
-**eduardsantamaria/eduardsantamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquitecte de software especialitzat en automatització, IA aplicada i innovació empresarial.
 
-Here are some ideas to get you started:
+Dissenyo sistemes escalables que connecten tecnologia i negoci.
+Treballo amb empreses que volen transformar processos amb intel·ligència artificial de manera pràctica i sostenible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus actual
+
+- Arquitectura de sistemes
+- Automatització de processos
+- Integració d'IA en entorns empresarials
+- Disseny de solucions orientades a impacte
+
+---
+
+## En què puc aportar valor
+
+- Definició d'arquitectura tècnica
+- Estratègia d'automatització
+- Implementació d'IA en processos reals
+- Traducció de necessitats de negoci a sistemes tecnològics
+
+---
+
+## Enfocament
+
+La tecnologia no és l’objectiu.  
+És el mitjà per construir sistemes més eficients, més intel·ligents i més alineats amb el negoci.
+
+---
+
+## Contacte
+
+📩 hola@ngredien.com 
+
+💼 LinkedIn www.linkedin.com/in/eduardsantamaria
